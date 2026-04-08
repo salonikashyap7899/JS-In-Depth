@@ -113,10 +113,3 @@ obj.greet();
 **Saloni Kashyap**
 Frontend / Full Stack Developer
 
----
-
-## ⭐ Notes
-
-Mastering these concepts will help you clear **70–80% of JavaScript interview questions**.
-
----
